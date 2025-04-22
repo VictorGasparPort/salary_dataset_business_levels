@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/taseermehboob9/salary-dataset-of-business-levels
+Salary Dataset Of Business Levels
+A simple Dataset for Polynomial and Linear Regression For Predictions Purpose
+About Dataset
+In This Dataset we have 3 columns and ten rows and its about a Company Where we will see the levels and how much salary is offered by the company for each level.
+We can use this dataset for Machine Learning Predictions.
