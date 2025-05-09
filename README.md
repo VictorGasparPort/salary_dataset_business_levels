@@ -4,7 +4,7 @@ Este projeto tem como objetivo analisar dados salariais e níveis hierárquicos 
 
 ---
 
-## 📁 Estrutura do Projeto a
+## 📁 Estrutura do Projeto:
 
 ```text
 salary_dataset_business_levels/
